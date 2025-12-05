@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{34a82bfa-02ed-49c8-91e5-96f0af534144}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../../Unity/Godus Instance/Assets/BuildFmod</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{dc37169d-13a1-4a09-a734-0e3b17178bc3}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{382621b6-8da7-4a5a-9237-d0a83f7d6e2d}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{f6742e10-eb8f-4cfd-bb11-1cf4fc0636f4}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{860b31d2-811a-4401-8f7d-1e0044022d6b}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{86bf8dad-d24e-48ea-b600-1964df4f1a9c}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{9e9cbc36-b4cb-43f7-b9c7-53c8864c5685}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{a402e75f-b5f8-4704-b08f-8cb60338d49a}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{b57baa78-a14b-448b-9a65-a45a2a90e7b1}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{506e3705-a621-44b5-aa5f-7404720742c6}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{5ad5111c-7251-4ab0-ae13-aee1d2f95725}</destination>
+		</relationship>
+	</object>
+</objects>
