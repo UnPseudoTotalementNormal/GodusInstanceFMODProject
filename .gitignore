@@ -1,0 +1,40 @@
+# FMOD Studio
+.cache/
+.restore/
+.user/
+.unsaved/
+Metadata/
+*.restore
+*.user
+*.cache
+
+# Build output
+Build/
+
+# Logs
+*.log
+fmod_editor.log
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
