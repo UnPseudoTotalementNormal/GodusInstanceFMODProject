@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1405acfc-d0bf-47bb-a18b-530f2f86a157}">
+		<property name="assetPath">
+			<value>monsterscreams-62245.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>45.503999999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a402e75f-b5f8-4704-b08f-8cb60338d49a}</destination>
+		</relationship>
+	</object>
+</objects>

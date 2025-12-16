@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{4dafc5d1-cf44-4ece-b5e0-e7d10ab7d276}">
+		<property name="assetPath">
+			<value>digital-glitch-sfx-438248.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.2277551020408164</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a402e75f-b5f8-4704-b08f-8cb60338d49a}</destination>
+		</relationship>
+	</object>
+</objects>

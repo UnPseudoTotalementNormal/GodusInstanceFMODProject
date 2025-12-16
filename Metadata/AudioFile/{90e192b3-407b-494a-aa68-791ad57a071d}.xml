@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{90e192b3-407b-494a-aa68-791ad57a071d}">
+		<property name="assetPath">
+			<value>elevator-creaky-door-opening-and-closing-sound-effect-440221.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>9.0239999999999991</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a402e75f-b5f8-4704-b08f-8cb60338d49a}</destination>
+		</relationship>
+	</object>
+</objects>

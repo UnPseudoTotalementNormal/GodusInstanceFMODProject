@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{77ddd5a4-90c0-4b7b-8475-712a92c2da90}">
+		<property name="assetPath">
+			<value>dog-bark - Part_3.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.0673242630385487</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a402e75f-b5f8-4704-b08f-8cb60338d49a}</destination>
+		</relationship>
+	</object>
+</objects>
