@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{34a82bfa-02ed-49c8-91e5-96f0af534144}">
 		<property name="builtBanksOutputDirectory">
-			<value>../../../../LaHorde/B3/Quetes/Godus-Instance-2025/Assets/BuildFmod</value>
+			<value>../../../Unity/Godus Instance/Assets/BuildFmod</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{dc37169d-13a1-4a09-a734-0e3b17178bc3}</destination>

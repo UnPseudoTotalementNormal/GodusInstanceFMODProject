@@ -5,7 +5,7 @@
 			<value>Death</value>
 		</property>
 		<relationship name="folder">
-			<destination>{e4b562f2-412a-443a-a6d3-eedf8d4bafba}</destination>
+			<destination>{dc37169d-13a1-4a09-a734-0e3b17178bc3}</destination>
 		</relationship>
 	</object>
 </objects>

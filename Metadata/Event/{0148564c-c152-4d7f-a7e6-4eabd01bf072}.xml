@@ -5,7 +5,7 @@
 			<value>Bark</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{9352e1e3-39d6-4e27-9465-047ad0b2a81e}</destination>
@@ -95,6 +95,9 @@
 		<property name="length">
 			<value>1.3846258503401361</value>
 		</property>
+		<property name="pitch">
+			<value>-11</value>
+		</property>
 		<relationship name="fadeOutCurve">
 			<destination>{42bf9f98-7a75-496b-a09b-8028bc08cece}</destination>
 		</relationship>
@@ -123,6 +126,7 @@
 	<object class="MixerBusEffectChain" id="{7c6e5e41-9812-4e75-984c-7cfa0acf0857}">
 		<relationship name="effects">
 			<destination>{ad1f436c-f58c-424f-bb2f-d4430ef9dd49}</destination>
+			<destination>{ad347f01-1d1e-4699-bbb2-bc30b40ac873}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{4c80c722-ab8d-4159-89a4-37b8359f9150}" />
@@ -167,6 +171,7 @@
 	</object>
 	<object class="MixerBusPanner" id="{1ce0e234-b6c7-4818-963a-8a15b02d943a}" />
 	<object class="MixerBusFader" id="{ad1f436c-f58c-424f-bb2f-d4430ef9dd49}" />
+	<object class="SpatialiserEffect" id="{ad347f01-1d1e-4699-bbb2-bc30b40ac873}" />
 	<object class="AutomationPoint" id="{c25c729c-11d1-416b-bbbb-d3da55377c72}">
 		<property name="position">
 			<value>1</value>

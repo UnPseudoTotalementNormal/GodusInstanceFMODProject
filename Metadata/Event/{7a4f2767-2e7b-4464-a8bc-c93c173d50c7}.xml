@@ -5,7 +5,7 @@
 			<value>Alien</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{fe537f09-8edd-4505-81ff-93a0a7077fd4}</destination>
@@ -98,6 +98,9 @@
 		<property name="pitch">
 			<value>9</value>
 		</property>
+		<relationship name="modulators">
+			<destination>{65dab794-6a33-42fa-9e36-bc6e98c780bf}</destination>
+		</relationship>
 		<relationship name="fadeOutCurve">
 			<destination>{0c6d1b9a-c290-4dd9-a9cb-22bdde278b61}</destination>
 		</relationship>
@@ -132,10 +135,19 @@
 	<object class="MixerBusEffectChain" id="{bfdbda7e-6e5a-4cdd-a6d2-2c6237a1eab6}">
 		<relationship name="effects">
 			<destination>{c3ec1d16-7323-4083-b7da-f1f265fda129}</destination>
+			<destination>{b39195b2-9f67-4a7c-9290-5d6cadf1b0e7}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{580def20-c29e-45c0-8a27-ac3ad9fd233c}" />
 	<object class="MixerBusFader" id="{49771821-9c3c-4996-a7b9-2eefa3d2c727}" />
+	<object class="RandomizerModulator" id="{65dab794-6a33-42fa-9e36-bc6e98c780bf}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>volume</value>
+		</property>
+		<property name="amount">
+			<value>2</value>
+		</property>
+	</object>
 	<object class="FadeCurve" id="{0c6d1b9a-c290-4dd9-a9cb-22bdde278b61}">
 		<relationship name="startPoint">
 			<destination>{c9b34e9c-1ce4-43ac-bb21-0bf6ce5e86c4}</destination>
@@ -206,6 +218,7 @@
 	</object>
 	<object class="MixerBusPanner" id="{a5c3e477-dde9-43b6-99c2-7f9563c512f2}" />
 	<object class="MixerBusFader" id="{c3ec1d16-7323-4083-b7da-f1f265fda129}" />
+	<object class="SpatialiserEffect" id="{b39195b2-9f67-4a7c-9290-5d6cadf1b0e7}" />
 	<object class="AutomationPoint" id="{c9b34e9c-1ce4-43ac-bb21-0bf6ce5e86c4}">
 		<property name="position">
 			<value>2.25</value>
